@@ -1,5 +1,5 @@
 # Table_Reservation_System
-A table seat reservation system web app
+A table seat reservation system web app that I created as a Web Development course as a part of college syllabus. 
 
 
 Running a project on XAMPP involves a series of steps to set up and configure your web application. Here's a general guide assuming you have a PHP-based web application:
